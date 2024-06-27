@@ -1,5 +1,4 @@
-Requirements
-
+Requirements:
 Visual Studio 2022
 Visual Studio Code
 Microsoft SQL Server Management Studio
